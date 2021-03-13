@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Library</string>
+
+
+    <!-- Bluetooth Reading data-->
+
+    <string name="connect_a_device">Connect a device</string>
+    <string name="make_discoverable">Make discoverable</string>
+    <!--  BluetoothChat -->
+    <string name="send">Send</string>
+    <string name="not_connected">You are not connected to a device</string>
+    <string name="bt_not_enabled_leaving">Bluetooth was not enabled. Leaving Bluetooth Chat.</string>
+    <string name="title_connecting">connecting...</string>
+    <string name="title_connected_to">connected: </string>
+    <string name="title_not_connected">not connected</string>
+
+    <!--  DeviceListActivity -->
+    <string name="scanning">scanning for devices...</string>
+    <string name="select_device">select a device to connect</string>
+    <string name="none_paired">No devices have been paired</string>
+    <string name="none_found">No devices found</string>
+    <string name="title_paired_devices">Paired Devices</string>
+    <string name="title_other_devices">Other Available Devices</string>
+    <string name="button_scan">Scan for devices</string>
+
+
+    <!-- Options Menu -->
+    <string name="connect">Connect a device</string>
+    <string name="discoverable">Make discoverable</string>
+
+    <string name="EnrolID">Enrol ID</string>
+    <string name="Verify">Verify ID</string>
+    <string name="Identify">Search</string>
+    <string name="DeleteID">Delete ID</string>
+    <string name="ClearID">Clear</string>
+    <string name="EnrolHost">Enrol Template</string>
+    <string name="CaptureHost">Capture Template</string>
+    <string name="Match">Match Template</string>
+    <string name="WriteFPCard">Write FP Card</string>
+    <string name="ReadFPCard">Read FP Card</string>
+    <string name="FPCardMatch">Fingeprint Card Match</string>
+    <string name="CardSn">Read Card SN</string>
+    <string name="ReadDataCard">Read Card Data</string>
+    <string name="WriteDataCard">Write Card Data</string>
+
+    <string name="PrintText">Print Text</string>
+    <string name="PrintBarcode">Print Barcode</string>
+
+    <string name="getdevsn">Device SN</string>
+    <string name="getbat">Battery Value</string>
+    <string name="getimage200">Get Image 200</string>
+    <string name="getimage288">Get Image 288</string>
+    <string name="getimage360">Get Image 360</string>
+    <string name="getdata">Get Data</string>
+    <string name="getversion">Device Version</string>
+    <string name="please_enter_numbers_or_letters">Please enter Numbers or letters</string>
+    <string name="ClearDB">Clear DB data</string>
+
+</resources>

@@ -38,7 +38,8 @@
         android:id="@+id/edtCard"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="Scanned card number"/>
+        android:hint="Scanned card number"
+        android:editable="false"/>
 
     <Button
         android:id="@+id/btnBatteryValue"
